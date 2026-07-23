@@ -57,6 +57,6 @@ Question 1 is executed as a shell script, while Questions 4 and 5 are mainly com
 
 ## Author
 
-Name:
-Course:
-Institution:
+Name: Suparshwa Deepak Kagawade
+Course: Command line interface
+Institution: BITS pilani
